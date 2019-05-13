@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="title_activity_main">CurrencyConverter</string>
+    <string name="tab_text_1">Overview</string>
+    <string name="tab_text_2">Specified</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="currencies_prompt">Choose a currency</string>
+
+    <string-array name="currencies_arrays">
+        <item>USD</item>
+        <item>EUR</item>
+        <item>PLN</item>
+        <item>GBP</item>
+        <item>JPY</item>
+        <item>AUD</item>
+        <item>CHF</item>
+
+        <item>BGN</item>
+        <item>NZD</item>
+        <item>ILS</item>
+        <item>RUB</item>
+        <item>CAD</item>
+        <item>PHP</item>
+        <item>TRY</item>
+        <item>HKD</item>
+        <item>MYR</item>
+        <item>HRK</item>
+        <item>CZK</item>
+        <item>IDR</item>
+        <item>DKK</item>
+        <item>NOK</item>
+        <item>HUF</item>
+        <item>MXN</item>
+        <item>HRK</item>
+        <item>THB</item>
+        <item>ISK</item>
+        <item>ZAR</item>
+        <item>BRL</item>
+        <item>SGD</item>
+        <item>INR</item>
+        <item>KRW</item>
+        <item>RON</item>
+        <item>CNY</item>
+        <item>SEK</item>
+
+    </string-array>
+</resources>
